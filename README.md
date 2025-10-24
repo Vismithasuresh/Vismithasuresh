@@ -1,4 +1,4 @@
-Excellent, Vismitha 🌟 — here’s a **next-level advanced and aesthetic GitHub Profile README** (HTML + Markdown hybrid) designed for **a professional developer portfolio (example: “Arjun Kumar”)**.
+Excellent, Sakshi 🌟 — here’s a **next-level advanced and aesthetic GitHub Profile README** (HTML + Markdown hybrid) designed for **a professional developer portfolio (example: “Arjun Kumar”)**.
 
 It includes:
 ✅ Futuristic typing animation

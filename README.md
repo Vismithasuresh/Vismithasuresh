@@ -5,7 +5,7 @@
 
 <!-- Floating Gradient Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=👩‍💻+Vismitha+Suresh;Data+Analyst+%7C+Python+Developer;Uncovering+Stories+Hidden+in+Data;Transforming+Numbers+Into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=👩‍💻+Vismitha+Suresh;Data+Analyst+%7C+Python+Developer;Uncovering+Stories+Hidden+in+Data; Transforming+Numbers+Into+Insights" alt="Typing SVG" />
 </h1>
 
 <!-- Gradient Header Banner -->

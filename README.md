@@ -24,6 +24,21 @@
   </a>
 </p>
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vismithasuresh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Vismithasuresh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vismithasuresh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Vismithasuresh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Vismithasuresh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <!-- Optional Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vismithasuresh&style=for-the-badge&color=F72585" alt="Profile views counter"/>
@@ -36,57 +51,6 @@
 ✨ Passionate **BCA Graduate** and **Aspiring Data Analyst** who loves finding stories in data.  
 💻 Skilled in **Python, SQL, Power BI, Excel**, and **data visualization**.  
 📊 Exploring ways to use data for actionable business insights and decision-making.  
-
----
-
-## 🛠️ Tech Stack  
-
-| Category | Tools / Technologies |
-|-----------|----------------------|
-| **Languages** | Python, SQL, HTML, CSS |
-| **Data Analysis** | Pandas, NumPy, Matplotlib, Excel |
-| **Visualization** | Power BI, Tableau *(Learning)* |
-| **Version Control** | Git, GitHub |
-| **Soft Skills** | Communication, Teamwork, Problem-Solving |
-
----
-
-## 🧩 Featured Projects  
-
-<details>
-  <summary><b>📊 Sales Data Analysis with Python</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="Sales Data Analysis project preview">
-  </p>
-  <ul>
-    <li>Cleaned, transformed, and visualized sales trends using Pandas & Matplotlib.</li>
-    <li>Delivered data-driven insights for sales performance improvements.</li>
-  </ul>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas badge">
-    <img src="https://img.shields.io/badge/Matplotlib-013243?style=flat&logo=python&logoColor=white" alt="Matplotlib badge">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter badge">
-  </p>
-</details>
-
-<details>
-  <summary><b>📈 Power BI Dashboard – Business Insights</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="400" alt="Power BI Dashboard project preview">
-  </p>
-  <ul>
-    <li>Designed an interactive dashboard visualizing KPIs and revenue trends.</li>
-    <li>Used DAX and data modeling for effective performance reporting.</li>
-  </ul>
-  <p align="center">
-    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=white" alt="Power BI badge">
-    <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel badge">
-  </p>
-</details>
-
----
 
 ## 📈 GitHub Performance  
 

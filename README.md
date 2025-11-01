@@ -16,7 +16,7 @@
   <a href="mailto:vismithacs98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vismitha"/>
   </a>
-  <a href="https://www.linkedin.com/in/vismithasuresh" target="_blank">
+  <a href="www.linkedin.com/in/vismitha-cheriyamane-614b02370" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
   <a href="https://github.com/vismithasuresh" target="_blank">
